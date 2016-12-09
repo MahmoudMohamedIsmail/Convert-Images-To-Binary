@@ -1,6 +1,6 @@
 # Convert-Images-To-Binary
 
-There are to Ways:
+There are two Ways:
 
 1-Convert image by image.
 
