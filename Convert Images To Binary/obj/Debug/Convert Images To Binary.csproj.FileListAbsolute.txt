@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\bin\Debug\Convert Images To Binary.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\bin\Debug\Convert Images To Binary.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\bin\Debug\Convert Images To Binary.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert Images To Binary.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert_Images_To_Binary.Form1.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert_Images_To_Binary.ImageByImage.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert_Images_To_Binary.Properties.Resources.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert Images To Binary.csproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert Images To Binary.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert Images To Binary.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Convert Images To Binary\Convert Images To Binary\obj\Debug\Convert_Images_To_Binary.FolderByFolder.resources
